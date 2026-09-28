@@ -1,0 +1,20 @@
+
+public class App {
+        for (int i = 0; i < 7; i++){
+        calificaciones = [i];
+
+    }
+    public static void main(String[] args) throws Exception {
+    AnalizadorCalificaciones calificacione = new();
+    calificaciones [] calificacione = [78,92,55,88,70,95,61];
+    int op = 0;
+    while(op){
+        case1;
+        system.out.printl("Calificaciones:");
+        calificacion.SetNombre("");
+        break;
+    }
+    
+
+    }
+}

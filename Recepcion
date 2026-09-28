@@ -1,0 +1,21 @@
+package Ejercicio2;
+public class Recepcion {
+    public String nombre;
+    public int cedula;
+    public String motivoDeVisita;
+    public boolean estado;
+
+
+    Public class Recepcion(){
+
+    }
+    Public class Recepcion( String nombre, int cedula , String motivoDeVisita , boolean estado){
+        this.nombre = nombre;
+        this.
+    }
+
+
+
+
+
+}

@@ -1,0 +1,26 @@
+public class AnalizadorCalificaciones(){
+public String nombre;
+public int calificaciones  
+    public class AnalizadorCalificaciones(){
+    }
+
+    public class AnalizadorCalificaciones(String nombre, int calificacion){
+    this.nombre = nombre;
+    this.calificacion = calificacion;
+    }
+    public GetNombre(){
+    return nombre;
+    }
+    public void SetNombre(String nombre){
+    this.nombre = nombre;
+    }
+    public SetCalificacion(){
+    return nombre;
+
+    }
+    public void GetCalificacion(int calificacion){
+    this.calificacion = calificacion;
+    
+}
+
+
